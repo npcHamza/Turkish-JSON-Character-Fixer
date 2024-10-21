@@ -1,3 +1,6 @@
+![banner image](https://raw.githubusercontent.com/npcHamza/Turkish-JSON-Character-Fixer/refs/heads/main/ss.jpg?token=GHSAT0AAAAAACW2J3SPKTLN2X7SJHWWXHGSZYW46UA)
+
+
 # Turkish JSON Character Fixer
 
 This Python script automatically fixes issues with Turkish characters in JSON files that are incorrectly encoded in UTF-8. It specifically targets situations where Turkish characters are represented as Unicode escape sequences (e.g., `\uXXXX`) and converts them back to their original form.
